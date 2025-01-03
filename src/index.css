@@ -30,7 +30,7 @@ ul{
   color: #fff;
 }
 .btn:hover{
-  background: rgba(255, 255, 255, 0.2);
+  background: rgba(255, 255, 255,sz 0.2);
   color: #fff;
   transition: 0.3s;
 }
