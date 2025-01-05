@@ -7,8 +7,9 @@ function project() {
   return (
     <div>
     <Navbar/>
-    <Footer/>
     <Jeroimg2/>
+    <Footer/>
+   
     </div>
   )
 }
