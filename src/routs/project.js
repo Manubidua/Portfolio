@@ -12,6 +12,6 @@ function project() {
    
     </div>
   )
-}
+}  
 
 export default project
