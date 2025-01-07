@@ -7,7 +7,7 @@ function project() {
   return (
     <div>
     <Navbar/>
-    <Jeroimg2/>
+    <Jeroimg2 heading="Projects" text="some of my most recent work" />
     <Footer/>
    
     </div>
